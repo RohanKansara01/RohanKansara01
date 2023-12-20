@@ -30,9 +30,9 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RohanKansara01&theme=dark" alt="Rohan Kansara" /></p>
 
-<p><img align="center" src="" alt="Rohan Kansara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanKansara01&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Rohan Kansara" /></p>
 
-<p><img align="center" src="" alt="Rohan Kansara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanKansara01&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Rohan Kansara" /></p>
 
 ## Connect with me:
 <br/>
