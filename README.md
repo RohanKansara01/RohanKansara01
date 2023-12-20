@@ -15,7 +15,8 @@ Hi 👋, I’m Rohan Kansara
 HTML5 CSS3 JavaScript Github Git
 
 📚 Learning
-NodeJS MongoDB ExpressJS
+</br>
+React, Redux
 
 📊 My Github Stats
 
