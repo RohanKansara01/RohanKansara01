@@ -25,3 +25,19 @@
 ### 📚 Learning
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-F24E1E?style=for-the-badge&logo=redux&logoColor=white)
+
+## 📊 My Github Stats
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RohanKansara01&theme=dark" alt="Rohan Kansara" /></p>
+
+<p><img align="center" src="" alt="Rohan Kansara" /></p>
+
+<p><img align="center" src="" alt="Rohan Kansara" /></p>
+
+## Connect with me:
+<br/>
+<p align="left">
+<a href="https://www.linkedin.com/in/rohankansara/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohan Kansara" height="30" width="40"  margin="30px 0"/></a>
+</p>
+
+<br/>
