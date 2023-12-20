@@ -10,6 +10,14 @@ Hi 👋, I’m Rohan Kansara
 
 - 💻 Looking Forward For Collaborating Projects So Feel Free To Connect!
 
+⚙️ My skills
+HTML5 CSS3 JavaScript React Redux TypeScript Github Git
+
+📚 Learning
+NodeJS MongoDB ExpressJS
+
+📊 My Github Stats
+
 <!---
 RohanKansara01/RohanKansara01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
