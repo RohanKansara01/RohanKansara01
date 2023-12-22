@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a frontend web developer.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://RohanKansara01.github.io)**
 
 - 📫 How to reach me **rohankansara0110@gmail.com**
 
