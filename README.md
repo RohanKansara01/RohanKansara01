@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋, I'm Rohan Kansara</p>
-<p>An Aspiring Full Stack Web Developer, currently working on developing my skillset.</p>
+#<p align="center">An Aspiring Full Stack Web Developer, currently working on developing my skillset.</p>
 
 **Welcome to my profile!**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://RohanKansara01.github.io)**
 
-- 📫 How to reach me **[Email](rohankansara0110@gmail.com)**
+- 📫 How to reach me **rohankansara0110@gmail.com**
 
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/rohankansara/)**
 
