@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋, I'm Rohan Kansara</p>
-#<p align="center">An Aspiring Full Stack Web Developer, currently working on developing my skillset.</p>
+**#<p align="center">An Aspiring Full Stack Web Developer, currently working on developing my skillset.</p>**
 
 **Welcome to my profile!**
 
